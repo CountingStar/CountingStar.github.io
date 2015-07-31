@@ -1,4 +1,5 @@
-source "https://rubygems.org"
+source "http://ruby.taobao.org"
+# Please enter a commit message to explain why this merge is necessary,
 
 group :development do
   gem 'rake', '~> 10.0'
